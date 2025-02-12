@@ -7,4 +7,3 @@ elif num1 < 10:
     print("Resposta incorreta")
 else:
     print("Obrigado")    
-

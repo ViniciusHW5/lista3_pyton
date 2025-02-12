@@ -1,4 +1,4 @@
-#Peça dois número. Se o primeior for maior que o segundo. exiba primeiro o "segundo número" e depois o "primeiro número", caso contrário, mostre "primeio número" e "depois o segundo".
+# Peça dois número. Se o primeior for maior que o segundo. exiba primeiro o "segundo número" e depois o "primeiro número", caso contrário, mostre "primeio número" e "depois o segundo".
 num1 = input("digite o primeiro numero: ")
 num2 = input("digite o segundo numero: ")
 if num1 < num2:
