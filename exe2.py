@@ -2,5 +2,7 @@
 num1 = int(input("digite um numero inferior a 20: "))
 if num1 > 20:
     print("muito")
+    print("Vinicius Haskel Wilbert")    
 elif num1 <=20:
-    print("obrigado")  
+    print("obrigado")
+    print("Vinicius Haskel Wilbert")      

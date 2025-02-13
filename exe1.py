@@ -4,6 +4,9 @@ num2 = input("digite o segundo numero: ")
 if num1 < num2:
     print(num2)
     print(num1)
+    print("Vinicius Haskel Wilbert")
 if num2 < num1:
     print(num1)
     print(num2)
+    print("Vinicius Haskel Wilbert")
+    

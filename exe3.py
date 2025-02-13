@@ -3,7 +3,10 @@
 num1 = int(input("digite um numero entre 10 e 20: "))
 if num1 > 20:
     print("Resposta incorreta")
+    print("Vinicius Haskel Wilbert")    
 elif num1 < 10:
     print("Resposta incorreta")
+    print("Vinicius Haskel Wilbert")    
 else:
-    print("Obrigado")    
+    print("Obrigado")
+    print("Vinicius Haskel Wilbert")       
